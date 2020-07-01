@@ -1,5 +1,5 @@
 # XXX/sbt:<java-version>_<sbt-version>
-# Check existing versions here: https://XXX:5001/v2/sbt/tags/list
+# Check existing versions here: https://XXX/v2/sbt/tags/list
 
 FROM bunyodb/java11:11.0.5
 MAINTAINER Connectivity
